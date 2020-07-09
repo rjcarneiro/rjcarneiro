@@ -14,8 +14,11 @@ Welcome to my GitHub profile. I'm a software engineer who :heart: technology, so
 - [Mais Receitas](https://maisreceitas.pt/)
 - [Terramotos.pt](https://terramotos.pt/)
 - [Jammyn](https://jammyn.com/)
+- [Rezult IO](https://rezult.io/)
 
 ## Other skills
 
 - Fintech development with Open Banking standard
 - DevOps, Continuous Integration and Deployment
+
+:mega: Ping me [me at ricardocarneiro.pt](mailto:me@ricardocarneiro.pt)
