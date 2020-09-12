@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile. I'm a software engineer who :heart: technology, software development and get things done.
+Welcome to my GitHub profile. I'm a software engineer who loves technology, software development and get things done.
 
 ## Major technologies
 
@@ -21,4 +21,4 @@ Welcome to my GitHub profile. I'm a software engineer who :heart: technology, so
 - Fintech development with Open Banking standard
 - DevOps, Continuous Integration and Deployment
 
-:mega: Ping me [me at ricardocarneiro.pt](mailto:me@ricardocarneiro.pt)
+Ping me [me at ricardocarneiro.pt](mailto:me@ricardocarneiro.pt) :mega:
