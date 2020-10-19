@@ -11,7 +11,6 @@ Welcome to my GitHub profile. I'm a software engineer who loves technology, soft
 ## Major projects
 
 - [My personal Website](https://ricardocarneiro.pt/)
-- [Mais Receitas](https://maisreceitas.pt/)
 - [Terramotos.pt](https://terramotos.pt/)
 - [Jammyn](https://jammyn.com/)
 - [Rezult IO](https://rezult.io/)
