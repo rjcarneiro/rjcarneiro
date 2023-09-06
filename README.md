@@ -14,7 +14,6 @@ Welcome to my GitHub profile. I'm a software engineer who loves technology, soft
 - [My personal Website](https://ricardocarneiro.pt/)
 - [Terramotos.pt](https://terramotos.pt/)
 - [Jammyn](https://jammyn.com/)
-- [Rezult IO](https://rezult.io/)
 
 ## Other skills
 
